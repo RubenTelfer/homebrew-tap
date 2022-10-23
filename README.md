@@ -1,11 +1,5 @@
-# NextFire Tap
+# Ruben Tap
 
-## How do I install these formulae?
+## Tap with HomeBrew
 
-`brew install nextfire/tap/<formula>`
-
-Or `brew tap nextfire/tap` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew tap rutelf/tap` and then `brew install <formula>`.
